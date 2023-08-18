@@ -58,4 +58,9 @@ sections:
         city: Liège
         units: metric
         hideDetails: false
+    - type: joke
+      options:
+        safeMode: false
+        language: fr
+        category: all
   
