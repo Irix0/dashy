@@ -25,6 +25,11 @@ appConfig:
 sections:
 - name: ULiège
   icon: fas fa-school
+  items:
+    - title: myULiège
+      description: Site principal
+      icon: far fa-folder
+      url: https://my.uliege.be/
 - name: Getting Started
   icon: fas fa-rocket
   items:
