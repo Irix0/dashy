@@ -11,11 +11,15 @@ pageInfo:
 appConfig:
   disableConfiguration: true
   theme: colorful
+  showSplashScreen: true
   statusCheck: true
   statusCheckInterval: 30
   webSearch:
     disableWebSearch: false
     searchEngine: google
+  hideComponents:
+    hideFooter: true
+    hideSettings: true
 
 # Main content - An array of sections, each containing an array of items
 sections:
