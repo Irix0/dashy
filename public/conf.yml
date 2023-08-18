@@ -11,7 +11,7 @@ pageInfo:
 appConfig:
   disableConfiguration: true
   theme: colorful
-  showSplashScreen: true
+  showSplashScreen: false
   statusCheck: true
   statusCheckInterval: 30
   webSearch:
@@ -23,6 +23,8 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
+- name: ULiège
+  icon: fas fa-school
 - name: Getting Started
   icon: fas fa-rocket
   items:
