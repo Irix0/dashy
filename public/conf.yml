@@ -54,7 +54,7 @@ sections:
         hideDate: false
     - type: weather
       options:
-        apiKey: d47e8583dbd9c9e73f9a759a718f17c9
+        apiKey: 'd47e8583dbd9c9e73f9a759a718f17c9'
         city: Liège
         units: metric
         hideDetails: false
