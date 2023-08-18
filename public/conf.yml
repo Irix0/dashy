@@ -30,6 +30,10 @@ sections:
       description: Site principal
       icon: far fa-folder
       url: https://my.uliege.be/
+    - title: eCampus
+      description: Ressources
+      icon: favicon
+      url: https://www.ecampus.uliege.be/
 - name: Getting Started
   icon: fas fa-rocket
   items:
