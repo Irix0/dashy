@@ -32,7 +32,7 @@ sections:
       url: https://my.uliege.be/
     - title: eCampus
       description: Ressources
-      icon: favicon
+      icon: https://www.ecampus.uliege.be/favicon.ico
       url: https://www.ecampus.uliege.be/
 - name: Getting Started
   icon: fas fa-rocket
