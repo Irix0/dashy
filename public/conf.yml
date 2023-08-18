@@ -2,17 +2,19 @@
 # Page meta info, like heading, footer text and nav links
 pageInfo:
   title: Dashy
-  description: Welcome to your new dashboard!
+  description: Tableau de bord
   navLinks:
-  - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+  - title: Google
+    path: https://google.be
 
 # Optional app settings and configuration
 appConfig:
   theme: colorful
   statusCheck: true
+  statusCheckInterval: 30
+  webSearch:
+    disableWebSearch: false
+    searchEngine: google
 
 # Main content - An array of sections, each containing an array of items
 sections:
