@@ -9,6 +9,7 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
+  disableConfiguration: true
   theme: colorful
   statusCheck: true
   statusCheckInterval: 30
