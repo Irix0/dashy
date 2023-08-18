@@ -12,7 +12,7 @@ appConfig:
   disableConfiguration: true
   theme: colorful
   showSplashScreen: false
-  statusCheck: true
+  statusCheck: false
   statusCheckInterval: 30
   webSearch:
     disableWebSearch: false
