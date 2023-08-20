@@ -28,7 +28,7 @@ sections:
   items:
     - title: myULiège
       description: Site principal
-      icon: far fa-folder
+      icon: favicon
       url: https://my.uliege.be/
     - title: eCampus
       description: Ressources
