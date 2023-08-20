@@ -23,6 +23,21 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
+- name: ' '
+  icon: fas fa-info
+  items:
+  widgets:
+    - type: clock
+      options:
+        timeZone: Europe/Brussels
+        customCityName: ' '
+        format: fr-FR
+        hideDate: false
+    - type: weather
+      options:
+        apiKey: 'd47e8583dbd9c9e73f9a759a718f17c9'
+        city: Liège
+        units: metric
 - name: ULiège
   icon: fas fa-school
   items:
