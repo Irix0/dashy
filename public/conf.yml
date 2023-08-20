@@ -34,6 +34,19 @@ sections:
       description: Ressources
       icon: https://www.ecampus.uliege.be/favicon.ico
       url: https://www.ecampus.uliege.be/
+    - subItems:
+      - title: JavaScript
+        url: https://developer.mozilla.org
+        icon: si-javascript
+      - title: TypeScript
+        url: https://www.typescriptlang.org/docs
+        icon: si-typescript
+      - title: Svelt
+        url: https://svelte.dev/docs
+        icon: si-svelte
+      - title: Go
+        url: https://go.dev/doc
+        icon: si-go
 - name: Getting Started
   icon: fas fa-rocket
   items:
