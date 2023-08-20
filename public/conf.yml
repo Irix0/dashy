@@ -92,18 +92,6 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
   widgets:
-    - type: clock
-      options:
-        timeZone: Europe/Brussels
-        customCityName: ' '
-        format: fr-FR
-        hideDate: false
-    - type: weather
-      options:
-        apiKey: 'd47e8583dbd9c9e73f9a759a718f17c9'
-        city: Liège
-        units: metric
-        hideDetails: false
     - type: joke
       options:
         safeMode: false
