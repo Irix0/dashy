@@ -49,10 +49,18 @@ sections:
       description: Ressources
       icon: https://www.ecampus.uliege.be/favicon.ico
       url: https://www.ecampus.uliege.be/
-    - subItems:
-      - title: JavaScript
-        url: https://developer.mozilla.org
-        icon: si-javascript
+- name: Serveur
+  icon: fas fa-server
+  items:
+  - name: Proxmox
+    description: Noeud principal
+    icon: favicon
+    url: https://proxmox.robertproxy.site/
+    statusCheck: true
+  - subItems:
+      - title: CloudFlare
+        url: https://dash.cloudflare.com/
+        icon: si-cloudflare
       - title: TypeScript
         url: https://www.typescriptlang.org/docs
         icon: si-typescript
@@ -62,14 +70,6 @@ sections:
       - title: Go
         url: https://go.dev/doc
         icon: si-go
-- name: Serveur
-  icon: fas fa-server
-  items:
-  - name: Proxmox
-    description: Noeud principal
-    icon: favicon
-    url: https://proxmox.robertproxy.site/
-    statusCheck: true
 - name: Getting Started
   icon: fas fa-rocket
   items:
