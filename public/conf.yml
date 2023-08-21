@@ -62,6 +62,14 @@ sections:
       - title: Go
         url: https://go.dev/doc
         icon: si-go
+- name: Serveur
+  icon: fas fa-server
+  items:
+  - name: Proxmox
+    description: Noeud principal
+    icon: favicon
+    url: https://proxmox.robertproxy.site/
+    statusCheck: true
 - name: Getting Started
   icon: fas fa-rocket
   items:
