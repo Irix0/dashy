@@ -58,12 +58,12 @@ sections:
     url: https://proxmox.robertproxy.site/
     statusCheck: true
   - subItems:
-      - title: CloudFlare
+      - title: Cloudflare
         url: https://dash.cloudflare.com/
         icon: si-cloudflare
-      - title: TypeScript
-        url: https://www.typescriptlang.org/docs
-        icon: si-typescript
+      - title: Netlify
+        url: https://app.netlify.com/
+        icon: si-netlify
       - title: Svelt
         url: https://svelte.dev/docs
         icon: si-svelte
