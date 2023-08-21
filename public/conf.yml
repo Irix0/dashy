@@ -52,7 +52,7 @@ sections:
 - name: Serveur
   icon: fas fa-server
   items:
-  - name: Proxmox
+  - title: Proxmox
     description: Noeud principal
     icon: si-proxmox
     url: https://proxmox.robertproxy.site/
