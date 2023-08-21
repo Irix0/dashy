@@ -54,7 +54,7 @@ sections:
   items:
   - name: Proxmox
     description: Noeud principal
-    icon: favicon
+    icon: si-proxmox
     url: https://proxmox.robertproxy.site/
     statusCheck: true
   - subItems:
