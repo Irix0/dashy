@@ -57,6 +57,7 @@ sections:
     icon: si-proxmox
     url: https://proxmox.robertproxy.site/
     statusCheck: true
+    statusCheckAcceptCodes: '403'
   - subItems:
       - title: Cloudflare
         url: https://dash.cloudflare.com/
