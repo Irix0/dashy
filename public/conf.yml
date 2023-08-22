@@ -68,6 +68,11 @@ sections:
     icon: si-nginxproxymanager
     url: https://pr.robertproxy.site
     statusCheck: true
+  - title: Zigbee2MQTT
+    description: Zigbee to MQTT
+    icon: si-zigbee
+    url: https://z2m.robertproxy.site
+    statusCheck: true
   - subItems:
       - title: Cloudflare
         url: https://dash.cloudflare.com/
