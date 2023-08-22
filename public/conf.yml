@@ -63,6 +63,11 @@ sections:
     icon: si-homeassistant
     url: https://ha.robertproxy.site
     statusCheck: true
+  - title: Nginx Proxy
+    description: NGINX Proxy Manager
+    icon: si-nginxproxymanager
+    url: https://pr.robertproxy.site
+    statusCheck: true
   - subItems:
       - title: Cloudflare
         url: https://dash.cloudflare.com/
