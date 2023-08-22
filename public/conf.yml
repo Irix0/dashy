@@ -73,6 +73,7 @@ sections:
     icon: si-zigbee
     url: https://z2m.robertproxy.site
     statusCheck: true
+    statusCheckAcceptCodes: '403'
   - subItems:
       - title: Cloudflare
         url: https://dash.cloudflare.com/
