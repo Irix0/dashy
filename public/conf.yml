@@ -58,6 +58,11 @@ sections:
     url: https://proxmox.robertproxy.site/
     statusCheck: true
     statusCheckAcceptCodes: '403'
+  - title: Home Assistant
+    description: Home Assistant est un système de domotique open-source qui vous permet de contrôler et d’automatiser votre maison.
+    icon: si-homeassistant
+    url: https://ha.robertproxy.site
+    statusCheck: true
   - subItems:
       - title: Cloudflare
         url: https://dash.cloudflare.com/
