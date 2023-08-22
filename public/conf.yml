@@ -57,7 +57,6 @@ sections:
     icon: si-proxmox
     url: https://proxmox.robertproxy.site/
     statusCheck: true
-    statusCheckAcceptCodes: '403'
   - title: Home Assistant
     description: Home Assistant est un système de domotique open-source qui vous permet de contrôler et d’automatiser votre maison.
     icon: si-homeassistant
@@ -68,6 +67,7 @@ sections:
     icon: si-nginxproxymanager
     url: https://pr.robertproxy.site
     statusCheck: true
+    statusCheckAcceptCodes: '403'
   - title: Zigbee2MQTT
     description: Zigbee to MQTT
     icon: si-zigbee
