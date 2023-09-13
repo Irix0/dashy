@@ -49,6 +49,15 @@ sections:
       description: Ressources
       icon: https://www.ecampus.uliege.be/favicon.ico
       url: https://www.ecampus.uliege.be/
+    - title: Embedded Systems Course
+      icon: favicon
+      url: https://people.montefiore.uliege.be/boigelot/cours/embedded/index.html
+    - title: Embedded Systems TP
+      icon: favicon
+      url: https://people.montefiore.uliege.be/tgillis/?p=std
+    - title: Introduction to Artificial Intelligence
+      icon: favicon
+      url: https://github.com/glouppe/info8006-introduction-to-ai
 - name: Serveur
   icon: fas fa-server
   items:
